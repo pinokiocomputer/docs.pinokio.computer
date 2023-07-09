@@ -34,7 +34,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: 'https://pinokio.computer' },
       { text: 'Twitter', link: 'https://twitter.com/cocktailpeanut' },
-      { text: 'GitHub', link: 'https://github.com/pinokio/pinokio' },
+      { text: 'GitHub', link: 'https://github.com/pinokiocomputer/pinokio' },
       { text: 'Discord', link: 'https://discord.gg/TQdNwadtE4' },
     ],
 
