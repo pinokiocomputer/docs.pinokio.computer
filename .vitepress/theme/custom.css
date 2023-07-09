@@ -1,0 +1,52 @@
+:root {
+  --vp-c-brand: cornflowerblue;
+}
+h1 {
+  font-size: 50px !important;
+  line-height: 55px !important;
+  font-weight: bold !important;
+  letter-spacing: -3px !important;
+}
+.vp-doc h2 {
+  font-size: 45px !important;
+  line-height: 50px !important;
+  font-weight: bold !important;
+  letter-spacing: -3px !important;
+}
+.vp-doc h3 {
+  font-size: 35px !important;
+  line-height: 40px !important;
+  font-weight: bold !important;
+  letter-spacing: -2px !important;
+}
+.vp-doc h4 {
+  font-size: 25px !important;
+  line-height: 30px !important;
+  font-weight: bold !important;
+  letter-spacing: -1px !important;
+}
+/*
+.VPSidebar, .VPSidebar .curtain {
+  background: white !important;
+}
+*/
+.VPSidebarItem.level-0 {
+  padding-bottom: 12px !important;
+}
+.VPSidebar .VPLink .text {
+  line-height: 18px;
+}
+.VPSidebar .is-active .text {
+  font-weight: bold !important;
+}
+.vp-doc img.framed {
+  border: 5px solid rgba(0,0,0,0.8);
+}
+.btn {
+  background: black;
+  font-weight: bold !important;
+  color: white !important;
+  text-decoration: none;
+  padding: 10px 20px !important;
+  border-radius: 4px;
+}

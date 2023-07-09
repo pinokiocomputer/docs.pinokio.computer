@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,V as o}from"./chunks/framework.7ae304b1.js";const A=JSON.parse('{"title":"RPC API","description":"","frontmatter":{},"headers":[],"relativePath":"apps/rpc.md","filePath":"apps/rpc.md"}'),p={name:"apps/rpc.md"},l=o("",6),t=[l];function e(c,D,r,F,y,C){return a(),n("div",null,t)}const u=s(p,[["render",e]]);export{A as __pageData,u as default};
