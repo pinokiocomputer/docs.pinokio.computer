@@ -1,3 +1,19 @@
+<blockquote class='info'>
+
+<h4>notice</h4>
+
+<br>
+
+Pinokio is like a web browser. It doesn't do anything on its own, but will become more and more useful as more people write and share apps and API integrations going forward.
+
+<br>
+
+To stay on top of all the new APIs and app integrations,
+
+- Follow <a href="https://twitter.com/cocktailpeanut">@cocktailpeanut</a> on Twitter
+- Join the <a href="https://discord.gg/TQdNwadtE4">Pinokio discord</a>
+</blockquote>
+
 # Pinokio
 
 > AI Browser

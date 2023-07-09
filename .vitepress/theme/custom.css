@@ -50,3 +50,9 @@ h1 {
   padding: 10px 20px !important;
   border-radius: 4px;
 }
+
+blockquote.info {
+  background: aliceblue;
+  padding: 30px;
+  box-sizing: border-box;
+}
