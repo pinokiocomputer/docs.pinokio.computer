@@ -4,7 +4,7 @@
 
 Pinokio is a browser that lets you **install, run, and automate any AI applications and models** automatically and effortlessly.
 
-No more opening the terminal. No more `git clone`. No more `conda install`. No more `pip install`. No more messing with environment variables.
+No more opening the terminal. No more `git clone`. No more `conda install`. No more `pip install`. No more messing with execution environments.
 
 **All of them automated with one click**, as easy as using a browser.
 
