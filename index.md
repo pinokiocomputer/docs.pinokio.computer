@@ -145,11 +145,33 @@ Instantly share the workflows, scripts, datasets, and everything over git.
 
 ## How it works
 
+### How is it possible?
+
+<br>
+
+#### Built-in binaries
+
+Pinokio ships with man of the common binaries you need when installing many AI applications, including:
+
+1. Node.js/NPM
+2. Python/Pip
+3. Git
+4. etc. (more to come)
+
+It takees care of all the convoluted steps one must jump through (installing the prerequisites) so the users can simply try new apps and engines with one click.
+
+<br>
+
+#### Turing complete script
+
+Pinokio has a native scripting language written in JSON, extending [JSON-RPC](https://www.jsonrpc.org/specification), which means anything you can express as an API can be expressed with Pinokio script. 
+
+
+### Virtual Computer
+
 Pinokio is a virtual computer.
 
 It has all the components of a traditional computer, except every component is written from scratch to facilitate the main goal, which is to build the ultimate application that can live.
-
-### Architecture
 
 1. **[File System](fs/overview):** Where and how Pinokio stores files.
 2. **[Processor](processor/overview):** How Pinokio runs tasks.
