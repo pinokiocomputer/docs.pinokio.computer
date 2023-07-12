@@ -4,7 +4,7 @@
 
 <br>
 
-Pinokio is like a web browser. It doesn't do anything on its own, but will become more and more useful as more people write and share apps and API integrations going forward.
+Just like a web browser, Pinokio doesn't do anything on its own, but will become more and more useful as people build and share apps, workflows, and APIs around it.
 
 <br>
 
