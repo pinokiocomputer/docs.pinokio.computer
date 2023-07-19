@@ -4,7 +4,7 @@
 
 ## Step 1. Download
 
-<a href="https://github.com/pinokiocomputer/pinokio/releases/download/0.0.29/Pinokio-0.0.29.dmg" class='btn'>Click to Download Pinokio for Intel Macs</a>
+<a href="https://github.com/pinokiocomputer/pinokio/releases/download/0.0.32/Pinokio-0.0.32.dmg" class='btn'>Click to Download Pinokio for Intel Macs</a>
 
 <br>
 
