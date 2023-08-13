@@ -1,1 +1,0 @@
-import{_ as s,o as n,c as a,V as o}from"./chunks/framework.7ae304b1.js";const A=JSON.parse('{"title":"Flow control","description":"","frontmatter":{},"headers":[],"relativePath":"api/flow.md","filePath":"api/flow.md"}'),l={name:"api/flow.md"},p=o("",59),t=[p];function e(D,c,r,F,y,C){return n(),a("div",null,t)}const u=s(l,[["render",e]]);export{A as __pageData,u as default};

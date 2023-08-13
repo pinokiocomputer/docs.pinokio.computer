@@ -1,1 +1,0 @@
-import{_ as s,o as a,c as n,V as o}from"./chunks/framework.7ae304b1.js";const u=JSON.parse('{"title":"Testing the API","description":"","frontmatter":{},"headers":[],"relativePath":"apps/test.md","filePath":"apps/test.md"}'),p={name:"apps/test.md"},l=o("",9),t=[l];function e(r,c,D,F,y,i){return a(),n("div",null,t)}const A=s(p,[["render",e]]);export{u as __pageData,A as default};

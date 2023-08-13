@@ -1,1 +1,0 @@
-import{_ as s,o as n,c as a,V as o}from"./chunks/framework.7ae304b1.js";const A=JSON.parse('{"title":"Growth","description":"","frontmatter":{},"headers":[],"relativePath":"ai/growth.md","filePath":"ai/growth.md"}'),l={name:"ai/growth.md"},p=o("",12),e=[p];function t(r,c,D,F,y,i){return n(),a("div",null,e)}const u=s(l,[["render",t]]);export{A as __pageData,u as default};
