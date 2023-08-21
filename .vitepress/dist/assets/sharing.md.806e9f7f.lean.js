@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as t,V as o}from"./chunks/framework.7ae304b1.js";const g=JSON.parse('{"title":"Sharing Scripts","description":"","frontmatter":{},"headers":[],"relativePath":"sharing.md","filePath":"sharing.md"}'),r={name:"sharing.md"},i=o("",7),s=[i];function n(l,c,p,h,d,_){return e(),t("div",null,s)}const u=a(r,[["render",n]]);export{g as __pageData,u as default};
