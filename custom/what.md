@@ -4,7 +4,7 @@
 
 In Pinokio, APIs are local JavaScript classes that behave like remote servers.
 
-It's easy to understand when we compare it to traditional APIs.
+It's easy to understand when we compare them to traditional APIs.
 
 ## Traditional API vs. Pinokio API
 
@@ -46,7 +46,7 @@ Here's an example Pinokio request:
 
 Here's how it works:
 
-1. First download the JavaScript module at `https://github.com/cocktailpeanut/sum.git` (**NOTE: the URI is used to DOWNLOAD the entire repository, not to make a reuqest to it**)
+1. First download the JavaScript module at `https://github.com/cocktailpeanut/sum.git` (**NOTE: the URI is used to DOWNLOAD the entire repository, not to make a request to it**)
 2. Resolve the endpoint by importing the JavaScript module at `api.js`
 3. Look up the exported `sum()` inside the `api.js` file
 4. Pass in the `params` to the resolved `sum()` method.
