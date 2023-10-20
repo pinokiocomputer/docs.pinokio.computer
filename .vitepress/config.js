@@ -58,6 +58,7 @@ export default defineConfig({
           { text: "Intel Mac", link: "/download/intelmac" },
           { text: "Windows", link: "/download/windows" },
           { text: "Linux", link: "/download/linux" },
+          { text: "Beta", link: "/download/beta" },
         ]
       },
       {
