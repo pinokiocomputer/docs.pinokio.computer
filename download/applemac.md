@@ -4,7 +4,7 @@
 
 ## Step 1. Download
 
-<a href="https://github.com/pinokiocomputer/pinokio/releases/download/0.1.8/Pinokio-0.1.8-arm64.dmg" class='btn'>Click to Download Pinokio for M1 & M2 Macs</a>
+<a href="https://github.com/pinokiocomputer/pinokio/releases/download/0.1.12/Pinokio-0.1.12-arm64.dmg" class='btn'>Click to Download Pinokio for M1 & M2 Macs</a>
 
 <br>
 
