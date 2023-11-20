@@ -14,7 +14,7 @@
 
 ### Step 1. Download
 
-<a href="https://github.com/pinokiocomputer/pinokio/releases/download/0.2.5/Pinokio-0.2.5-win32.zip" class='btn'>Click to Download Pinokio Beta for Windows</a>
+<a href="https://github.com/pinokiocomputer/pinokio/releases/download/0.2.6/Pinokio-0.2.6-win32.zip" class='btn'>Click to Download Pinokio Beta for Windows</a>
 
 <br>
 
@@ -46,7 +46,7 @@ To bypass this,
 
 ### Step 1. Download
 
-<a href="https://github.com/pinokiocomputer/pinokio/releases/download/0.2.5/Pinokio-0.2.5-arm64.dmg" class='btn'>Click to Download Pinokio Beta for M1 & M2 Macs</a>
+<a href="https://github.com/pinokiocomputer/pinokio/releases/download/0.2.6/Pinokio-0.2.6-arm64.dmg" class='btn'>Click to Download Pinokio Beta for M1 & M2 Macs</a>
 
 <br>
 
@@ -67,7 +67,7 @@ To bypass this,
 
 ### Step 1. Download
 
-<a href="https://github.com/pinokiocomputer/pinokio/releases/download/0.2.5/Pinokio-0.2.5.dmg" class='btn'>Click to Download Pinokio Beta for Intel Macs</a>
+<a href="https://github.com/pinokiocomputer/pinokio/releases/download/0.2.6/Pinokio-0.2.6.dmg" class='btn'>Click to Download Pinokio Beta for Intel Macs</a>
 
 <br>
 
