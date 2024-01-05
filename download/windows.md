@@ -4,7 +4,7 @@
 
 ## Step 1. Download
 
-<a href="https://github.com/pinokiocomputer/pinokio/releases/download/0.2.7/Pinokio-0.2.7-win32.zip" class='btn'>Click to Download Pinokio for Windows</a>
+<a href="https://github.com/pinokiocomputer/pinokio/releases/download/1.0.15/Pinokio-1.0.15-win32.zip" class='btn'>Click to Download Pinokio for Windows</a>
 
 <br>
 
