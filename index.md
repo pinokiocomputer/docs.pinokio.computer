@@ -151,7 +151,7 @@ Instantly share the workflows, scripts, datasets, and everything over git.
 
 #### Built-in binaries
 
-Pinokio ships with man of the common binaries you need when installing many AI applications, including:
+Pinokio ships with many of the common binaries you need when installing many AI applications, including:
 
 1. Node.js/NPM
 2. Python/Pip
