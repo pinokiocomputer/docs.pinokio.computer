@@ -158,7 +158,7 @@ Pinokio ships with man of the common binaries you need when installing many AI a
 3. Git
 4. etc. (more to come)
 
-It takees care of all the convoluted steps one must jump through (installing the prerequisites) so the users can simply try new apps and engines with one click.
+It takes care of all the convoluted steps one must jump through (installing the prerequisites) so the users can simply try new apps and engines with one click.
 
 <br>
 
