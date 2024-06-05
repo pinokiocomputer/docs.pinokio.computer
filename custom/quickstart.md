@@ -232,4 +232,4 @@ Often you may want your API to automatically start a server or a connection when
 
 For example if your API involves a database system, you will probably want to make sure that your DB automatically starts up when Pinokio starts, so the endpoint will be available when you make API requests immediately after.
 
-In these cases, you can use the [self driving scripts](/tutorial/autostart) to automatically launch whatever services you need, automatically.
+In these cases, you can use the [self driving scripts](/tutorial/autostart) to automatically launch whatever services you need.
